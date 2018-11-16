@@ -501,7 +501,7 @@
         <repository>
             <id>release</id>
             <name>gameoflife-repo</name>
-            <url>http://3.16.150.135:8081/#admin/repository/repositories:gameoflife-repo</url>
+            <url>http://3.16.10.86:8081/#admin/repository/repositories:gameoflife-repo</url>
         </repository>
         
     </distributionManagement>
