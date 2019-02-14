@@ -499,7 +499,7 @@
     <distributionManagement>
         
         <repository>
-            <id>release</id>
+            <id>123</id>
             <name>gameoflife-repo</name>
             <url>http://3.16.42.254:8081/#admin/repository/repositories:game-dev</url>
         </repository>
