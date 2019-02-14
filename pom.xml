@@ -500,7 +500,7 @@
         
         <repository>
             <id>123</id>
-            <name>gameoflife-repo</name>
+            <name>game-dev</name>
             <url>http://3.16.42.254:8081/#admin/repository/repositories:game-dev</url>
         </repository>
         
