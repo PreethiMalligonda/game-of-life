@@ -501,7 +501,7 @@
         <repository>
             <id>123</id>
             <name>game-dev</name>
-            <url>http://3.16.54.132:8081/#admin/repository/repositories:game-dev</url>
+            <url>http://http://3.16.54.132:8081/repository/game-dev/</url>
         </repository>
         
     </distributionManagement>
