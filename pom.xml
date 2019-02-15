@@ -500,8 +500,8 @@
         
         <repository>
             <id>123</id>
-            <name>game-dev</name>
-            <url>http://3.16.54.132:8081/repository/game-dev/</url>
+            <name>game-qa</name>
+            <url>http://3.16.54.132:8081/#admin/repository/repositories:gameoflife-qa</url>
         </repository>
         
     </distributionManagement>
