@@ -500,7 +500,7 @@
         
         <repository>
             <id>123</id>
-            <name>game-qa</name>
+            <name>game-dev</name>
             <url>http://3.16.41.95:8081/#admin/repository/repositories:game-dev</url>
         </repository>
         
