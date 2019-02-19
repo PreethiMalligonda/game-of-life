@@ -500,8 +500,8 @@
         
         <repository>
             <id>123</id>
-            <name>game-dev</name>
-            <url>http://3.17.13.174:8081/repository/game-dev/</url>
+            <name>dev</name>
+            <url>http://192.168.56.25:8081/nexus/content/groups/dev/</url>
         </repository>
         
     </distributionManagement>
