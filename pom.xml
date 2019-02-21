@@ -501,7 +501,7 @@
         <repository>
             <id>123</id>
             <name>dev</name>
-            <url>http://3.17.58.86:8081/repository/gameoflife_dev/</url>
+            <url>http://3.17.58.86:8081/#admin/repository/repositories:gameoflife_dev</url>
         </repository>
         
     </distributionManagement>
